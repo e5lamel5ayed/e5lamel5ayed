@@ -1,20 +1,31 @@
 # Hi, I'm Eslam Elsayed
 
-**Front-End Developer** building web apps and admin dashboards with React, Next.js and TypeScript.
+**React / Front-End Developer and Team Lead** with 3+ years of experience building scalable web apps, admin dashboards and real-time systems with React, Next.js and TypeScript. Based in Cairo, Egypt. B.Sc. in Computer and Informatics, Zagazig University.
 
-## What I build
-Dashboards, e-commerce tools and web apps that connect to real back-end APIs: authentication, data tables and forms, real-time updates, and Arabic-friendly interfaces.
+## What I do
+- Front-end developer at **ITD Company** (since Jun 2024), building a real estate management system used by 10+ companies and 1000+ units.
+- Team Lead and front-end developer at **Super Vision**, a freelance team (since 2024).
+- Front-end instructor at **Deep Dive Workshop** (2026).
 
-## Selected project
+## Selected projects
 
-### GoKid: kids' task and learning platform (graduation project)
-Admin dashboard for managing institutions, classes, children, supervisors, tasks, gifts, levels and story adventures, with real-time notifications.
-**My part:** the web dashboard. **Stack:** Next.js, React, TypeScript, Tailwind CSS, TanStack Query, SignalR.
+### GoKid: graduation project (2025 - 2026)
+A gamified child-development platform across web, mobile (Flutter) and AI services, built by a 6-member team. I was team lead and owned the front-end and integration layer: SignalR real-time notifications, the Adventure Builder task library, and 80+ ASP.NET Core endpoints across a role-based dashboard with 3 user roles.
+**Stack:** Next.js, React, TypeScript, ASP.NET Core, SignalR
 [Repository](https://github.com/e5lamel5ayed/Graduation_Project)
 
-## Skills
-**Core:** JavaScript, TypeScript, React, Next.js, HTML, CSS
-**Also:** Tailwind CSS, Bootstrap, Git, Figma, REST APIs, SignalR
+### Property Management System (ITD Company)
+Real estate management dashboard with 6+ modules (Units, Events, Requests, Reports, Companies, Permissions), 30+ reusable React components, 80+ integrated endpoints and a 40% page-load improvement.
 
-## Contact
-[Email](mailto:eslam25elsayed12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eslam-elsayed-20a106266/)
+### More
+- **Waffy App**: marketplace with real-time listings, buyer-seller messaging and checkout (React, TypeScript, Node.js)
+- **Plan B Platform**: subscription system with user roles and JWT auth (React, TypeScript, Node.js)
+- **Safe Way**: tourism platform for travel, Hajj and Umrah with an admin dashboard
+
+## Skills
+**Frontend:** JavaScript, TypeScript, React, Next.js, Redux Toolkit, React Query, Tailwind CSS, Bootstrap, MUI, Sass, HTML5, CSS3
+**Integration:** REST APIs, JWT, SignalR, Node.js
+**Testing and tools:** Jest, React Testing Library, GitHub Actions, Git, Jira
+
+## Links
+[Portfolio](https://portfolio-mu-tan-97.vercel.app/) | [Email](mailto:eslam25elsayed12@gmail.com) | [LinkedIn](https://www.linkedin.com/in/eslamelsayed1)
